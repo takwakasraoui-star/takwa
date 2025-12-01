@@ -1,0 +1,32 @@
+[
+  {
+    "nom": "PC Portable Gamer",
+    "prix": 2149,
+    "description": "PC portable puissant pour le gaming avec processeur Intel i7 et 16GB RAM.",
+    "image": "pc-gamer.jpeg"
+  },
+  {
+    "nom": "Clavier Mécanique",
+    "prix": 89,
+    "description": "Clavier mécanique RGB avec touches silencieuses et anti-ghosting.",
+    "image": "clavierm.jpg"
+  },
+  {
+    "nom": "Souris Gaming",
+    "prix": 49,
+    "description": "Souris ergonomique avec capteur haute précision et boutons programmables.",
+    "image": "souris.jpg"
+  },
+  {
+    "nom": "Écran 27 pouces 4K",
+    "prix": 349,
+    "description": "Écran 4K Ultra HD avec taux de rafraîchissement de 144Hz et dalle IPS.",
+    "image": "ecran.jpeg"
+  },
+  {
+    "nom": "Casque Gaming",
+    "prix": 79,
+    "description": "Casque avec micro intégré et son surround pour une expérience immersive.",
+    "image": "casque.jpeg"
+  }
+]
